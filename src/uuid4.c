@@ -1,4 +1,4 @@
-// (‑●‑●)> dual licensed under the WTFPL v2 and MIT licenses
+﻿// (‑●‑●)> dual licensed under the WTFPL v2 and MIT licenses
 //   without any warranty.
 //   by Gregory Pakosz (@gpakosz)
 // https://github.com/gpakosz/uuid4
